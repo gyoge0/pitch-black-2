@@ -1,0 +1,63 @@
+{
+  "name": "Pitch Black 2",
+  "dark": true,
+  "author": "gyoge",
+  "editorScheme": "theme/pitch-black-2.xml",
+  "colors": {
+    "selectionInactiveBackground": "#0d293e",
+    "selectionBackground": "#2E436E",
+    "selectionForeground": "#DFE1E5",
+    "primaryBackground": "#181818",
+    "secondaryBackground": "#1f1f1f"
+  },
+  "ui": {
+    "*": {
+      "background": "primaryBackground",
+      "selectionBackground": "#2E436E",
+      "selectionForeground": "#DFE1E5",
+      "selectionInactiveBackground": "#0d293e",
+      "hoverBackground": "#333333",
+      "selectedBackground": "#333333"
+    },
+    "Borders": {
+      "color": "secondaryBackground"
+    },
+    "FileColor.Yellow": "#3D3223",
+    "MenuBar.background": "secondaryBackground",
+    "Popup.background": "secondaryBackground",
+    "TextField.background": "#2B2D30",
+    "Popup.Toolbar.background": "defaultBackgorundColor",
+    "SearchEverywhere": {
+      "Header": {
+        "background": "secondaryBackground"
+      },
+      "SearchField": {
+        "background": "secondaryBackground",
+        "borderColor": "#252525"
+      },
+      "Advertiser": {
+        "background": "secondaryBackground"
+      },
+      "List.separatorColor": "primaryBackground",
+      "List.separatorForeground": "primaryBackground"
+    },
+    "ScrollPane.background": "secondaryBackground",
+    "ScrollBar.background": "secondaryBackground",
+    "ToolTip.background": "secondaryBackground",
+    "PopupMenu.background": "secondaryBackground",
+    "Popup.Advertiser.background": "secondaryBackground",
+    "Menu.background": "secondaryBackground",
+    "MenuBar.selectionBackground": "secondaryBackground",
+    "MenuItem.background": "secondaryBackground",
+    "Menu.separatorColor": "#252525",
+    "ComboBox.background": "secondaryBackground",
+    "ComboBox.selectionBackground": "primaryBackground",
+    "ToolTip.Actions.background": "secondaryBackground",
+    "ToolWindow.Header.inactiveBackground": "primaryBackground",
+    "ToolWindow.Header.borderColor": "secondaryBackground",
+    "EditorTabs.borderColor": "secondaryBackground",
+    "StatusBar.borderColor": "secondaryBackground",
+    "ToolBar.borderHandleColor": "secondaryBackground",
+    "GutterTooltip.lineSeparatorColor": "secondaryBackground"
+  }
+}
