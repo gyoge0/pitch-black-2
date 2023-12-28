@@ -1,6 +1,6 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.gyoge.pitchblack2</id>
+    <id>com.gyoge.pb2</id>
     <name>Pitch Black 2</name>
     <vendor>gyoge0</vendor>
 
@@ -9,6 +9,6 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.gyoge.pitchblack2" path="/theme/pitch-black-2.json"/>
+        <themeProvider id="com.gyoge.pb2" path="/theme/pitch-black-2.json"/>
     </extensions>
 </idea-plugin>
