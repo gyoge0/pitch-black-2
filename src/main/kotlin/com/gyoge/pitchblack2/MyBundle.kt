@@ -1,4 +1,4 @@
-package com.github.gyoge0.pitchblack2
+package com.gyoge.pitchblack2
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

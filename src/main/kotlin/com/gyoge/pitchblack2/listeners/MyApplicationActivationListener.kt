@@ -1,4 +1,4 @@
-package com.github.gyoge0.pitchblack2.listeners
+package com.gyoge.pitchblack2.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

@@ -1,9 +1,9 @@
-package com.github.gyoge0.pitchblack2.services
+package com.gyoge.pitchblack2.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.gyoge0.pitchblack2.MyBundle
+import com.gyoge.pitchblack2.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {
