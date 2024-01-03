@@ -1,12 +1,18 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.gyoge.pb2</id>
+    <version>0.1.0</version>
+
     <name>Pitch Black 2</name>
-    <vendor>gyoge0</vendor>
+    <category>UI</category>
+    <vendor email="jbmarketplace@gyoge.com" url="https://gyoge.com">gyoge</vendor>
+
+
+    <description><![CDATA[
+        An updated version of <a href="https://plugins.jetbrains.com/plugin/14449-pitch-black">the original Pitch Black plugin</a> based on the New UI Dark theme.
+ ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
-
-    <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.gyoge.pb2" path="/theme/pitch-black-2.json"/>
