@@ -2,3 +2,7 @@
 .idea
 .qodana
 build
+
+# signing workflow
+signing/
+sign.ps1
