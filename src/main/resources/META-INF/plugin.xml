@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.gyoge.pb2</id>
-    <version>0.1.1</version>
+    <version>0.1.2</version>
 
     <name>Pitch Black 2</name>
     <category>UI</category>
@@ -10,6 +10,12 @@
 
     <description><![CDATA[
         An updated version of <a href="https://plugins.jetbrains.com/plugin/14449-pitch-black">the original Pitch Black plugin</a> based on the New UI Dark theme.
+
+        After installing, go to Settings | Appearance & Behavior | Appearance and select "Pitch Black 2"
+        from the Theme dropdown.
+
+        To change the editor theme,
+        go to Settings | Editor | Color Scheme and select "Pitch Black 2" from the Scheme dropdown.
  ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
